@@ -31,9 +31,8 @@ public class Category {
 		Name = name;
 	}
 	
-	public Category(long id, String name) {
-		Id = id;
-		Name = name;
+	public Category() {
+
 	}
 	
 	
